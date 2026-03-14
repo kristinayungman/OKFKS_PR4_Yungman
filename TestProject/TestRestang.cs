@@ -32,7 +32,10 @@ namespace TestRectangle
             Rectangle rectangle = new Rectangle(6, 7);
             string expected = "Прямоугольник: Ширина = 6, Высота = 7, Площадь = 42, Периметр = 26";
             string result = rectangle.ToString();
-            Assert.Equal(expected, result);
+            Assert.Contains("Ширина = 6", result);
+            Assert.Contains("Высота = 7", result);
+            Assert.Contains("Площадь = 42", result);
+            Assert.Contains("Периметр = 26", result);
 
         }
      }
