@@ -4,3 +4,9 @@ C:\GeometryShape\obj\Debug\GeometryShape.csproj.AssemblyReference.cache
 C:\GeometryShape\obj\Debug\GeometryShape.csproj.CoreCompileInputs.cache
 C:\GeometryShape\obj\Debug\GeometryShape.dll
 C:\GeometryShape\obj\Debug\GeometryShape.pdb
+C:\пр31Гариев\OKFKS4\OKFKS_PR4_Yungman\bin\Debug\GeometryShape.dll
+C:\пр31Гариев\OKFKS4\OKFKS_PR4_Yungman\bin\Debug\GeometryShape.pdb
+C:\пр31Гариев\OKFKS4\OKFKS_PR4_Yungman\obj\Debug\GeometryShape.csproj.AssemblyReference.cache
+C:\пр31Гариев\OKFKS4\OKFKS_PR4_Yungman\obj\Debug\GeometryShape.csproj.CoreCompileInputs.cache
+C:\пр31Гариев\OKFKS4\OKFKS_PR4_Yungman\obj\Debug\GeometryShape.dll
+C:\пр31Гариев\OKFKS4\OKFKS_PR4_Yungman\obj\Debug\GeometryShape.pdb
