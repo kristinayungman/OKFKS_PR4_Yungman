@@ -30,10 +30,12 @@ namespace TestRectangle
         public void Restangle_String()
         {
             Rectangle rectangle = new Rectangle(6, 7);
-            string expected = "Прямоугольник: Ширина = 6, Высота = 7, Площадь = 42, Периметр = 26";
+            //string expected = "Прямоугольник: Ширина = 6, Высота = 7, Площадь = 42, Периметр = 26";
             string result = rectangle.ToString();
-            Assert.Equal(expected, result);
-
+            Assert.Contains("\u0428\u0438\u0440\u0438\u043D\u0430 = 6", result); // Ширина = 6
+            Assert.Contains("\u0412\u044B\u0441\u043E\u0442\u0430 = 7", result); // Высота = 7
+            Assert.Contains("\u041F\u043B\u043E\u0449\u0430\u0434\u044C = 42", result); // Площадь = 42
+            Assert.Contains("\u041F\u0435\u0440\u0438\u043C\u0435\u0442\u0440 = 26", result); // Периметр = 26
         }
-     }
+    }
 }

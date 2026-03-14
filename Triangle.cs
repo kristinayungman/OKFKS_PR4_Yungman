@@ -13,6 +13,24 @@ namespace GeometryShape
         public double SideB { get; set; }
         public double SideC { get; set; }
 
+        public Triangle(double sideA, double sideB, double sideC)
+        {
+            SideA = sideA;
+            SideB = sideB;
+            SideC = sideC;
+            if (SideA + SideB <= SideC)
+            {
+                throw new ArgumentException("Такой треугольник не может существовать!");
+            }
+            if (SideA + SideC <= SideB)
+            {
+                throw new ArgumentException("Такой треугольник не может существовать!");
+            }
+            if (SideC + SideB <= SideA)
+            {
+                throw new ArgumentException("Такой треугольник не может существовать!");
+            }
+        }
         public double Perimeter ()
         {
             return SideA + SideB + SideC;
@@ -24,23 +42,6 @@ namespace GeometryShape
         public string ToString ()
         {
             return $"Треугольник: Первая сторона = {SideA}, Вторая сторона = {SideB}, Третья сторона = {SideC},\n Периметр = {Perimeter()} , Площадь = {Area()}";
-        }
-       
-        public string CheckingTheCorrectnes()
-        {
-            if(SideA+SideB<=SideC)
-            {
-                return "Такой треугольник не может существовать!";
-            }
-            if (SideA + SideC <= SideB)
-            {
-                return "Такой треугольник не может существовать!";
-            }
-            if (SideC + SideB <= SideB)
-            {
-                return "Такой треугольник не может существовать!";
-            }
-            return null;
         }
 
     }

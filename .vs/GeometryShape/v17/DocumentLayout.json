@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3930319-DCFE-40F8-A29D-321A42B47FF2}|TestProject\\TestProject.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\okfks4\\okfks_pr4_yungman\\testproject\\testtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3930319-DCFE-40F8-A29D-321A42B47FF2}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703058D8-ECE9-46A3-A72A-CDE64B9F7AEE}|GeometryShape.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 244,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestTriangle.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\TestProject\\TestTriangle.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestTriangle.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\TestProject\\TestTriangle.cs",
+              "RelativeToolTip": "TestProject\\TestTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:10:33.199Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +52,7 @@
               "RelativeDocumentMoniker": "TestProject\\TestRestang.cs",
               "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\TestProject\\TestRestang.cs",
               "RelativeToolTip": "TestProject\\TestRestang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T11:28:58.997Z",
               "EditorCaption": ""
@@ -49,7 +65,7 @@
               "RelativeDocumentMoniker": "Triangle.cs",
               "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\Triangle.cs",
               "RelativeToolTip": "Triangle.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T09:39:12.689Z"
             },
@@ -61,13 +77,13 @@
               "RelativeDocumentMoniker": "Rectangle.cs",
               "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\Rectangle.cs",
               "RelativeToolTip": "Rectangle.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T09:37:09.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\OKFKS4\\OKFKS_PR4_Yungman\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
